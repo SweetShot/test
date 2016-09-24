@@ -1,0 +1,9 @@
+J:\test\MyNote\MyNote\bin\Debug\MyNote.exe.config
+J:\test\MyNote\MyNote\bin\Debug\MyNote.exe
+J:\test\MyNote\MyNote\bin\Debug\MyNote.pdb
+J:\test\MyNote\MyNote\obj\Debug\MyNote.csprojResolveAssemblyReference.cache
+J:\test\MyNote\MyNote\obj\Debug\MyNote.Form1.resources
+J:\test\MyNote\MyNote\obj\Debug\MyNote.Properties.Resources.resources
+J:\test\MyNote\MyNote\obj\Debug\MyNote.csproj.GenerateResource.Cache
+J:\test\MyNote\MyNote\obj\Debug\MyNote.exe
+J:\test\MyNote\MyNote\obj\Debug\MyNote.pdb
